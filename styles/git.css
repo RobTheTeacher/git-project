@@ -23,6 +23,14 @@ body {
     text-align: center;
 }
 
+.header-subtitle {
+    color: var(--main-colour);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+
+}
+
 .main {
     background-color:aquamarine;
     padding: 16px;
